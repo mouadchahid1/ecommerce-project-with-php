@@ -1,0 +1,763 @@
+@media only screen and (max-width:1300px){
+    #checkout #left #inner #emp{
+        width: 2.2%;
+    }
+    #bg h1{
+        font-size: 40px;
+    }
+    #bg{
+        height: 500px;
+    }
+    #holder1 #left #inner, #holder1 #right #inner{
+        width: 70%;
+ 
+    }
+    #deals{
+        height: 700px;
+    }
+    #newsletter img{
+        opacity: 0.5;
+    }
+}
+@media only screen and (max-width:1100px){
+    #checkout #left #inner #emp{
+        width: 2%;
+    }
+    #services #grid #part #inner h1{
+        font-size: 14px;
+    }
+    #services #grid #part #inner a{
+        font-size: 11px;
+    }
+    #services #grid #part #inner img{
+        width: 60px;
+        height: 60px;
+    }
+    #about a{
+        font-size: 13px;
+    }
+    #deals{
+        height: 650px;
+    }
+    #bg h1{
+        font-size: 40px;
+    }
+    #bg{
+        height: 500px;
+    }
+    #holder1 #left #inner, #holder1 #right #inner{
+        width: 70%;
+ 
+    }
+        
+.card{
+        width: 33.33%;
+    }
+      .section h1{
+        font-size: 20px;
+    }
+    .section a{
+        font-size: 13px;
+    }
+    
+    #product-details #part-img #bottom #part{
+        width: 90px;
+        height: 90px;
+    }
+}
+@media only screen and (max-width:990px){
+    #cart-box{
+        flex-direction: column;
+    }
+    
+    #cart-box #left{
+        width: 100%;
+    }
+    #cart-box #right{
+        width: 100%;
+        margin-top: 50px;
+    }
+    #services #grid #part{
+        width: 49%;
+    }
+    #mail{
+        width: 90%;
+    }
+    
+    #product-details #part-info{
+        display: none;
+    }
+    #product-details{
+        width: 95%;
+    }
+    #product-details #part-img{
+        width: 50%;
+    }
+    #product-details #part-shop{
+        flex: 1;
+    }
+    #poster1{
+        display: none;
+    }
+    
+    #poster2{
+        width: 100%;
+        border-radius: 0px;
+    }
+    #shop{
+        flex-direction: column;
+        padding-top: 0;
+        width: 100%;
+        margin-top: 0px;
+        
+    }
+    #shop #left{
+        display: none;
+    }
+    
+    #shop #right{
+    }
+        #expand-inner #top #info h1{
+        font-size: 17px;
+    }
+    #rev{
+        display: none;
+    }
+    #expand-inner #bottom{
+        border-top: 1px solid #999;
+    }
+    #expand-inner #bottom #left{
+        width: 100%;
+        height: 400px;
+    }
+    #expand-inner #bottom #left #main{
+        height: 300px;
+    }
+    #expand-inner #bottom #right{
+        width: 90%;
+        margin-top: 50px;
+        margin-left: 5%;
+    }
+    #expand-inner #bottom{
+        display:block;
+        overflow-y: auto;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    #expand-inner #top #info a{
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    #expand-inner #top #info{
+        flex-direction: column;
+        height: auto;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+
+    footer{
+        padding-top: 140px;
+    }
+    footer #part{
+        width: 45%;
+        margin-bottom: 50px;
+    }
+    #about a{
+        width: 70%;
+    }
+    #holder1 #left{
+        width: 95%;
+        height: 330px;
+    }
+    #holder1 #right{
+        width: 95%;
+        height: 330px;
+        margin-top: 20px;
+    }
+    #holder1{
+        flex-direction: column;
+        justify-content: center;
+    }
+    #bg{
+        height: 400px;
+    }
+ .ref1{
+        margin-left: 10px;
+    }   
+    .ref2{
+        margin-right: 10px;
+        font-size: 14px;
+    }   
+    #bg h1{
+        font-size: 30px;
+    }
+    #bg #inner{
+        width: 70%;
+    }
+    .shop-now:hover{
+        width: 170px;
+    }
+    #browse-by-cat #left{
+        display: none;
+    }
+    .card{
+        width: 25%;
+    }
+    
+}
+@media only screen and (max-width:920px){
+    #checkout{
+        flex-direction: column;
+    }
+    #checkout #left{
+        width: 100%;
+    }
+    #checkout #right #inner{
+        width: 100%;
+    }
+    #checkout #right{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #checkout #left #inner #emp{
+        width: 2.8%;
+    }
+}
+@media only screen and (max-width:913px){
+    #checkout #left #inner #emp{
+        width: 2.75%;
+    }
+}
+@media only screen and (max-width:875px){
+    #checkout #left #inner #emp{
+        width: 2.65%;
+    }
+}
+@media only screen and (max-width:820px){
+    #checkout #left #inner #emp{
+        display: none;
+    }
+    .partial{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:800px){
+    #myaccount #top{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    #myaccount #top h1{
+        margin-bottom: 15px;
+    }
+    #white-part, #dark-part{
+        flex-direction: column;
+    }
+    #white-part #left{
+        width: 100%;
+    }
+    #dark-part #left{
+        width: 100%;
+        margin: 0;
+        margin-left: 5%;
+    }
+    #white-part #right,#dark-part #right{
+        display: none;
+    }
+    #dark-part{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #white-part{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    #white-part #left h1, #dark-part #left h1{
+        font-size: 25px;   
+        width: 60%;
+    }
+    #white-part #right{
+        width: 60%;
+        margin-top: 30px;
+    }
+    #dark-part #right{
+        width: 60%;
+        margin-bottom: 30px;
+    }
+    #deals{
+        height: 500px;
+    }
+    .card2{
+        width: 180px;
+        height: 330px;
+    }
+    .card2 #in h1{
+        font-size: 12px;
+        width: 100%;
+    }
+    .card2 #in #price{
+        font-size: 12px;
+    }
+    .card2 #in a{
+        font-size: 12px;
+        height: 50px;
+        width: 100%;
+    }
+    #deals #inner{
+        height: 85%;
+    }
+    #bg{
+        height: 400px;
+    }
+    #further-info{
+        display: none;
+    }
+    #langs{
+        visibility: hidden;
+        z-index: -1;
+    }
+    #currency{
+        visibility: hidden;
+        z-index: -1;
+    }
+    #search-bar input{
+        width: 65%;
+    }
+    #main-nav{
+        display: none;
+    }
+       #search-bar input{
+        width: 75%;
+    }
+    .logo{
+        width: 100px;
+        height: auto;
+    }
+    #logo-bar a{
+        display: none;
+    }
+    #details{
+        display: none;
+    }
+    #menu{
+        display: block;
+    }
+    #search-nav{
+        height: 80px;
+    }
+    #search-bar{
+        height: 40px;
+    }
+    #search{
+        width: 23px;
+        height: 23px;
+    }
+    #bg h1{
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    #bg a{
+        font-size: 14px;
+    }
+    #bg #inner{
+        width: 60%;
+    }
+    #solde-from{
+        margin-top: 20px;
+    }
+    #solde-from h1{
+        font-size: 20px;
+    }
+     #secure button{
+        margin-right: 15px;
+         width: 90px;
+         font-size: 14px;
+    }
+    #secure a{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+    #newsletter #inner{
+        margin: 0;
+        width: 90%;
+    }
+    #newsletter #inner h1{
+        font-size: 22px;
+    }
+    #newsletter #inner a{
+        width: 90%;
+        font-size: 14px;
+    }
+    #newsletter #inner p{
+        width: 90%;
+        font-size: 14px;
+    }
+    #newsletter #inner #email-bar{
+        width: 90%;
+    }
+    #newsletter{
+        align-items: center;
+    }
+    #about a{
+        width: 80%;
+        font-size: 11px;
+    }
+    #product-details #part-img #bottom #part{
+        width: 60px;
+        height: 60px;
+    }
+}
+@media only screen and (min-width:800px){
+    #menu-bar{
+         visibility: hidden;
+        z-index: -1;
+    }
+}
+@media only screen and (max-width:700px){
+    #cart-box #left #bar #price{
+        display: none;
+    }
+    #cart-box #left #bar #remove{
+        justify-content: center;
+    }
+    #product-details #inner{
+        flex-direction: column;
+        align-items: center;
+    }
+    #product-details #part-img{
+        width: 80%;
+    }
+    #product-details #part-shop{
+        width: 80%;
+        margin-top: 50px;
+    }
+    #bg{
+        height: 300px;
+    }
+ #bg h1{
+        font-size: 16px;
+    }
+    #bg a{
+        font-size: 14px;
+    }
+    .shop-now{
+        width: 110px;
+        font-size: 13px;
+        margin-top: 20px;
+        height: 35px;
+    }
+    #bg #inner{
+        width: 60%;
+    }
+    #solde-from{
+        margin-top: 20px;
+    }
+    #solde-from h1{
+        font-size: 16px;
+    }
+    .shop-now:hover{
+        width: 140px;
+    }
+    .card{
+        width: 33%;
+    }
+}
+@media only screen and (max-width:600px){
+    #poster-holder #inner a{
+        font-size: 13px;
+    }
+    #poster-holder #inner h1{
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #poster-holder #inner p{
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width:550px){
+    #product-details #part-img #top img{
+        width: 250px;
+    height: 250px;
+    }
+    #holder1 #right img, #holder1 #left img{
+        width: 100%;
+        height: 120%;
+    }
+    #login{
+        box-shadow: rgba(0,0,0,0) 0px 0px 0px;
+        width: 100%;
+        padding-top: 0;
+        padding-bottom: 0;
+        border: none;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #cart-box #right #inner{
+        width: 100%;
+    }
+    
+    #cart-box #left #bar #quantity button{
+        width: 25px;
+        height: 25px;
+        font-size: 12px;
+    }
+    #cart-box #left #bar #remove button{
+        width: 80px;
+        font-size: 12px;
+        height: 30px;
+    }
+    #services #grid #part{
+        width: 90%;
+    }
+    #services #grid #part #inner img{
+        width: 80px;
+        height: 80px;
+    }
+    #product-info #top h1{
+        font-size: 14px;
+    }
+    #product-info #bottom #desc-tab{
+        font-size: 13px;
+    }
+    #product-info #bottom #info-tab{
+        font-size: 13px;
+    }
+    #product-details #topb #title{
+        font-size: 18px;
+    }
+    #product-details #topb a{
+        font-size: 12px;
+    }
+    #expand-inner{
+        width: 95%;
+    }
+    #expand-inner #bottom #left #main #top-bar #msg,
+    #product-details #part-img #top #top-bar #msg{
+    width: 40px;
+    height: 25px;
+        font-size: 11px;
+    }
+    #expand-inner #bottom #left #main #top-bar #percentage,
+    #product-details #part-img #top #top-bar #percentage{
+    width: 40px;
+    height: 25px;
+        font-size: 11px;
+    }
+    #expand-inner #top #pr-title{
+        font-size: 14px;
+    }
+    #expand-inner #bottom #left #pics #part{
+        width: 55px;
+        height: 55px;
+    }
+    #about{
+        flex-direction: column;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    #about a{
+        width: 80%;
+        font-size: 15px;
+    }
+    #about #part{
+        height: 150px;
+        width: 60%;
+    }
+    .card #centered img.main{
+        
+    }
+    #deals{
+        height: 500px;
+    }
+    #deals #inner{
+        width: 95%;
+    }
+    #deals img.main{
+        height: 50%;
+    }
+    #secure2{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #secure2 a, #secure a{
+        font-size: 12px;
+    }
+    #holder1 #left{
+        width: 95%;
+        height: 220px;
+    }
+    .card{
+        width: 50%;
+        height: 400px;
+    }
+    #holder1 #left img, #holder1 #right img{
+        width: 150%;
+    }
+    #holder1 #right{
+        width: 95%;
+        height: 220px;
+    }
+    #holder1 h1{
+        font-size: 20px;
+    }
+    #bg{
+        height: 250px;
+    }
+    #secure{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #mail #inner #main h1{
+    }
+    #mail #inner #main a{
+        font-size: 12px;
+    }
+    #mail{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #mail #inner #bar{
+        width: 98%;
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width:500px){
+    ::-webkit-scrollbar{
+    width: 1px;
+    height: 8px;
+}
+    #cart-box #left #bar #remove button:nth-child(1){
+        display: none;
+    }
+    #cart-box #left #bar #remove #rem{
+        display: block;
+    }
+    #product-info #top h1{
+        font-size: 12px;
+    }
+    #services #grid #part{
+        width: 100%;
+    }
+    #product-info #bottom #desc-tab{
+        font-size: 13px;
+    }
+    #product-info #bottom #info-tab{
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:420px){
+    #cart-page a{
+        font-size: 11px;
+    }
+    #product-info #top{
+        flex-direction: column;
+        height: auto;
+        align-items: flex-start;
+    }
+    #contact-main #bar #part{
+        width: 90%;
+    }
+    #cart-box #left #bar #pic img{
+        width: 40px;
+    }
+    #cart-box #left #bar #pic img{
+        width: 40px;
+        height: 40px;
+    }
+    #cart-box #left #bar #quantity a{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #cart-box #left #bar #remove{
+        justify-content: center;
+        flex: none;
+        width: 30px;
+    }
+    #cart-box #left #bar #quantity{
+        justify-content: center;
+        flex: 1;
+    }
+    #cart-box{
+        width: 100%;
+        margin: 0;
+    }
+    #cart-box #left #bar{
+        width: 95%;
+    }
+    #cart-box #left{
+        width: 100%;
+        margin: 0;
+    }
+    #cart-box #left #bar #name{
+        width: 30%;
+        height: 100%;
+        font-size: 13px;
+    }
+    #cart-box #left #bar #price{
+        width: 30%;
+        height: 100%;
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width:400px){
+    #product-details #part-img #top img{
+        width: 200px;
+    height: 200px;
+    }
+    #poster2{
+        height: 110px;
+    }
+    footer #part{
+        width: 90%;
+        margin-bottom: 50px;
+    }
+    .card #centered strong{
+        font-size: 14px;
+    }
+     .section h1{
+        font-size: 14px;
+    }
+    .section a{
+        font-size: 11px;
+    }
+    .star{
+        width: 15px;
+        height: 15px;
+    }
+    .card #centered a{
+        font-size: 13px;
+    }
+    
+    #basic-info{
+        font-size: 10px;
+    }   
+    .card{
+        height: 350px;
+    }
+    .card #centered img.main{
+        
+    }
+
+    
+    #newsletter #inner #email-bar button{
+     flex: 1;
+        font-size: 12px;
+    }
+    #newsletter #inner #email-bar input{
+        width: 70%;
+    }
+    #logo-bar img.logo{
+        width: 50px;
+        margin: 0;
+    }
+    #search-nav input{
+        width: 60%;
+        font-size: 11px;
+    }
+    #search-nav{
+        justify-content: center;
+    }
+    
+}
